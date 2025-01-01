@@ -2,7 +2,7 @@
 
 Velkommen til slangespill-prosjektet!
 
-Dette er et enkelt Python-basert slangespill med grafisk brukergrensesnitt (GUI).
+Dette er et enkelt Java-basert slangespill med grafisk brukergrensesnitt (GUI).
 
 ## Funksjoner:
 - Start og stopp spill
